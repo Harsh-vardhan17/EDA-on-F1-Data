@@ -1,5 +1,8 @@
 # Exploratory Data Analysis 
 
+![image](https://github.com/user-attachments/assets/817b79bd-a8b6-44f4-aa23-f64627f60072)
+
+
 ## This project presents an in-depth exploratory data analysis (EDA) of Formula 1 historical data, including races, drivers, constructors, lap times, pit stops, and safety incidents. Visualizations are generated using Python libraries like pandas, matplotlib, seaborn, and plotly.
 
 ## 📂 Project Contents
