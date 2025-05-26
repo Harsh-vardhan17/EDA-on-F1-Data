@@ -48,6 +48,33 @@ pip install pandas matplotlib seaborn plotly
 
 <img width="1590" alt="image" src="https://github.com/user-attachments/assets/d64fc98e-3ddf-4582-a90f-12342296eb5d" />
 
+## 🚀 Future Works
+🔄 Race Simulation & Strategy
+⏱️ Simulate a race strategy model using Monte Carlo simulation (e.g., pit stop timing, weather impact)
+
+💡 Build a decision engine to predict tire choices based on race pace & degradation
+
+🎥 Visual Enhancements
+📽️ Animated charts using Plotly or matplotlib.animation (e.g., evolving driver standings)
+
+📍 Driver career map: visualize wins by country for each driver
+
+📊 Dashboard using:
+
+Streamlit or Plotly Dash (interactive filters for season, driver, constructor)
+
+Tableau (live race dashboards)
+
+🔗 API Integration
+📡 Use the Ergast API for live F1 data updates
+
+🔄 Automate data ingestion from Formula1.com or FastF1 Python package
+
+🧹 Data Engineering
+🗃️ Create a SQLite/PostgreSQL backend to run real-time SQL queries
+
+🔁 Automate daily updates with GitHub Actions or cron jobs
+
 ## 🤝 Contributions
 Contributions, suggestions, and stars ⭐ are welcome!
 Feel free to fork the repo and submit a pull request.
