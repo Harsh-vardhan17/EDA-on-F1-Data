@@ -61,8 +61,6 @@ pip install pandas matplotlib seaborn plotly
 
 📊 Dashboard using:
 
-Streamlit or Plotly Dash (interactive filters for season, driver, constructor)
-
 Tableau (live race dashboards)
 
 🔗 API Integration
