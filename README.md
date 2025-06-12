@@ -30,7 +30,7 @@ git clone https://github.com/Harsh-vardhan17/EDA-on-F1-Data.git
 cd EDA-on-F1-Data
 ```
 
-## 2. Run the Notebook
+### 2. Run the Notebook
 You can open the notebook using:
 
 Jupyter Notebook
@@ -39,7 +39,7 @@ VS Code with Jupyter extension
 
 Google Colab (upload manually)
 
-3. Install Required Libraries
+### 3. Install Required Libraries
 ```bash
 pip install pandas matplotlib seaborn plotly
 ```
